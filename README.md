@@ -2,7 +2,6 @@
 
 ## Java Backend Developer 😎
 - 🔭 I’m currently looking for a job
-- ⚡ Fun fact: backend rules the web
 - 🔨 Last backend project I've done: [Electric Scoot Rental](https://github.com/andrey-backend-dev/ElectroScootRental)
 
 ## Contact me 📫
