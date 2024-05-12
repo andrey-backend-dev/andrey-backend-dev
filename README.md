@@ -2,13 +2,16 @@
 
 ## Java Backend Developer 😎
 - 🔭 I’m currently looking for a job
-- 🔨 Last backend project I've done: [Electric Scoot Rental](https://github.com/andrey-backend-dev/ElectroScootRental)
+- 🔧 I'm currently working on [Emergency Notification System](https://github.com/andrey-backend-dev/emergency-notification)
+- 🎁 Last backend project I've done: [Electric Scoot Rental](https://github.com/andrey-backend-dev/ElectroScootRental)
 
 ## Pet Projects
+- Система экстренного оповещения
+    - [Java Backend](https://github.com/andrey-backend-dev/emergency-notification)
 - Сервис аренды электросамокатов
     - [Java Backend](https://github.com/andrey-backend-dev/ElectroScootRental)
 - Сервис размещения объявления
-    - [Java Backend](https://github.com/andrey-backend-dev/advertisement)
+    - [Java Backend](https://github.com/andrey-backend-dev/advertisement)    
 
 ## Main Stack 🔑
 - Java 17
