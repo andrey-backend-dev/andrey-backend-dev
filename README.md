@@ -1,6 +1,6 @@
 ### Hi there, I am Andrey Semenov 👋
 
-## Java Backend Developer 😎
+## Java Backend Developer
 - 🔭 I’m currently looking for a job
 - 🔧 I'm currently working on [Emergency Notification System](https://github.com/andrey-backend-dev/emergency-notification)
 - 🎁 Last backend project I've done: [Electric Scoot Rental](https://github.com/andrey-backend-dev/ElectroScootRental)
