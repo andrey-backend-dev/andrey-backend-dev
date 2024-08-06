@@ -1,9 +1,8 @@
 ### Hi there, I am Andrey Semenov 👋
 
 ## Java Backend Developer
-- 🔭 I’m currently looking for a job
-- 🔧 I'm currently working on [Emergency Notification System](https://github.com/andrey-backend-dev/emergency-notification)
-- 🎁 Last backend project I've done: [Electric Scoot Rental](https://github.com/andrey-backend-dev/ElectroScootRental)
+- 📈 I’m currently working at SBER (Block "Services" of Internal Security)
+- ✅ Last backend project I've done: [Emergency Notification System](https://github.com/andrey-backend-dev/emergency-notification)
 
 ## Pet Projects
 - Система экстренного оповещения
