@@ -17,8 +17,10 @@
 - Spring Framework (Boot, Data, Cache, Security, Scheduling, etc..)
 - Hibernate
 - Maven/Gradle
+- Elasticsearch
+- Kafka
 - Docker
-- MySQL
+- MySQL/PostgreSQL
 - HTML, CSS, JS
 - Git
 
