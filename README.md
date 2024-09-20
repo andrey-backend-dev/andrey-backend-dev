@@ -1,7 +1,7 @@
 ### Hi there, I am Andrey Semenov 👋
 
 ## Java Backend Developer
-- 📈 I’m currently working at SBER (Block "Services" of Internal Security)
+- 📈 I’m currently working at SBER (Internal Security)
 - ✅ Last backend project I've done: [Emergency Notification System](https://github.com/andrey-backend-dev/emergency-notification)
 
 ## Pet Projects
