@@ -18,6 +18,7 @@
 - Hibernate
 - Maven/Gradle
 - Elasticsearch
+- Clickhouse
 - Kafka
 - Docker
 - MySQL/PostgreSQL
